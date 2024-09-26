@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "iomanip": "cpp",
+    "cstdlib": "cpp",
+    "xstring": "cpp",
+    "vector": "cpp",
+    "istream": "cpp",
+    "algorithm": "cpp",
+    "chrono": "cpp",
+    "iosfwd": "cpp",
+    "iterator": "cpp",
+    "xutility": "cpp",
+    "queue": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
+}
